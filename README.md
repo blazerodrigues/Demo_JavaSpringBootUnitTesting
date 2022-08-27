@@ -1,4 +1,4 @@
-# UnitTesting_SpringBoot
+# Spring Boot Unit Testing Demo
 
 Unit testing in Java Spring Boot using Junit5, AssertJ and Mockito
 
